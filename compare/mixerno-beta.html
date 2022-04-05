@@ -189,7 +189,7 @@
     var gap02= 0;
     
     function u1(uid1) {
-        //headerImage1.src='https://www.banner.yt/'+uid1+'?width=870';
+        headerImage1.src='https://www.banner.yt/'+uid1+'?width=870';
         fetch('https://api.subscriberwars.space/mixerno/yt/'+uid1+'').then(res => res.json()).then(data => {
             title1.innerHTML = data.info.name
             count1.innerHTML= data.estCounts.subCount
