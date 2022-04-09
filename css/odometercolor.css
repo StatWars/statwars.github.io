@@ -64,8 +64,8 @@
   }
   @keyframes up {
       0% {color: #fff;}
-      25% {color: #f07172;}
-      75% {color: #f07172;}
+      25% {color: #90ee90;}
+      75% {color: #90ee90;}
       100% {color: #fff;}
   }
   .odometer.odometer-auto-theme.odometer-animating-down .odometer-ribbon-inner, .odometer.odometer-theme-default.odometer-animating-down .odometer-ribbon-inner {
