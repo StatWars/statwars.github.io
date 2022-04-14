@@ -81,7 +81,7 @@
 }
 
 .odometer.odometer-auto-theme, .odometer.odometer-theme-default {
-  font-family: "customfont", sans-serif;
+  font-family: "roboto", sans-serif;
   line-height: 1.1em;
 }
 .odometer.odometer-auto-theme .odometer-value, .odometer.odometer-theme-default .odometer-value {
@@ -89,8 +89,4 @@
 }
 .odometer.odometer-auto-theme, .odometer.odometer-theme-default, .odometer-formatting-mark { 
   line-height: 1.1em; vertical-align: middle !important;
-}
-@font-face {
-    font-family: 'customfont'; /*a name to be used later*/
-    src: url('font/customfont.ttf'); /*URL to font*/
 }
