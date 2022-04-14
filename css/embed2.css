@@ -3,7 +3,7 @@ body, html {
     padding: 0px;
     background: #ffffff00;
     font-size: 11pt;
-    font-family: 'customfont';
+    font-family: 'roboto';
     display: block;
 }
 #logo {
@@ -33,8 +33,4 @@ body, html {
     top: 30px;
     color: #fff;
     font-weight: 500;
-}
-@font-face {
-    font-family: 'customfont'; /*a name to be used later*/
-    src: url('font/customfont.ttf'); /*URL to font*/
 }
