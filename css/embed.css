@@ -18,14 +18,14 @@ body, html {
 }
 #title {
     position: absolute;
-    top: 14px;
-    left: 109px;
+    top: -5px;
+    left: 140px;
     width: 100px;
     white-space: nowrap;
     text-overflow: ellipsis;
-    font-size: 80px;
+    font-size: 105px;
     color: #fff;
-    font-weight: bold;
+    font-weight: 600;
 }
 #count {
     font-size: 0px;
