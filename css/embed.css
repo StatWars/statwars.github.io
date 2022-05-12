@@ -24,7 +24,7 @@ body, html {
     white-space: nowrap;
     text-overflow: ellipsis;
     font-size: 105px;
-    color: #fff;
+    color: #1e1e1e;
     font-weight: 600;
 }
 #count {
