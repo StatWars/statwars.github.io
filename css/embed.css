@@ -19,7 +19,7 @@ body, html {
 #title {
     position: absolute;
     top: -5px;
-    left: 140px;
+    left: 135px;
     width: 100px;
     white-space: nowrap;
     text-overflow: ellipsis;
