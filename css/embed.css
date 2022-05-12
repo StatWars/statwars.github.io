@@ -18,12 +18,12 @@ body, html {
 }
 #title {
     position: absolute;
-    top: -5px;
+    top: -2px;
     left: 135px;
     width: 100px;
     white-space: nowrap;
     text-overflow: ellipsis;
-    font-size: 105px;
+    font-size: 100px;
     color: #1e1e1e;
     font-weight: 700;
 }
