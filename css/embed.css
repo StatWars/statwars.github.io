@@ -3,11 +3,11 @@ body, html {
     padding: 0px;
     background: #0f0f0f;
     font-size: 11pt;
-    font-family: 'Roboto', sans-serif;
+    font-family: 'Segoe UI', sans-serif;
     display: block;
 }
 #logo {
-    top: 0;
+    top: 20px;
     left: 0;
     object-fit: cover;
     margin-top: 0;
@@ -18,13 +18,14 @@ body, html {
 }
 #title {
     position: absolute;
-    top: 5px;
-    left: 105px;
-    width: 500px;
+    top: 14px;
+    left: 109px;
+    width: 100px;
     white-space: nowrap;
     text-overflow: ellipsis;
-    font-size: 25px;
+    font-size: 80px;
     color: #fff;
+    font-weight: bold;
 }
 #count {
     font-size: 50px;
