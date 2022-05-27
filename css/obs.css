@@ -28,7 +28,8 @@ body, html {
 }
 #count {
     font-size: 250px;
-    position: absolute;
+    position: initial;
     color: #fff;
-    font-weight: 700;
+    font-weight: 600;
+    text-align: center;
 }
